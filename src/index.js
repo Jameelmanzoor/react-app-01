@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <div>Heloo World from Jameel Ahmad</div>,
+  <App/>,
   document.getElementById('root')
 );
 
