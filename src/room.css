@@ -1,0 +1,19 @@
+.html, body, #root, .room {
+  height: 100vh;
+  margin: 0;
+  max-width: 900px;
+  width: 90%;
+  margin: 20px auto;
+}
+.lit {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+
+button {
+  height: 20px;;
+}
